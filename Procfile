@@ -1,0 +1,1 @@
+worker: python trading_news_bot.py
